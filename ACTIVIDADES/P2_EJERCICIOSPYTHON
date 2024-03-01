@@ -24,3 +24,5 @@ if nombre== nombre1 or == nombre2 or nombre==3:
 print("No te saludaré")
 else:
 print(" Hola"+ nombre)
+}
+}
