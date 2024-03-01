@@ -1,1 +1,26 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
 print ("ACTIVIDAD 2: Diseño de algoritmos en python Odalis Areili Elizondo Marquez 2109384 N1")  
+print ("Desarrolla un algoritmo que le pida al ususario por su nombre y que lo salude con su nombre, excepto si se llama Ana, Juan y Pablo")
+
+>>>nombre1= "Ana"
+>>>nombre2= "Juan"
+>>>nombre3= "Pablo"
+
+nombre= input ("Hola! Puedes introducir tu nombre")
+if nombre== nombre1 or == nombre2 or nombre==3:
+print("No te saludaré")
+else:
+print(" Hola"+ nombre)
